@@ -17,9 +17,9 @@ Soy un estudiante de 3° año Bachillerato de Desarrollo de Software del Institu
 - Godot/Gdscript
 - Python
 
-# Contacto
+# Contacto 📱
 - antcbenitez@gmail.com
-- 
+- in/josé-antonio-castro-benítez-90114a35a
 
 #
 
