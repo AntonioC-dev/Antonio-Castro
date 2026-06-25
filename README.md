@@ -19,7 +19,7 @@ Soy un estudiante de 3° año Bachillerato de Desarrollo de Software del Institu
 
 # Contacto 📱
 - antcbenitez@gmail.com
-- in/josé-antonio-castro-benítez-90114a35a
+- [in/josé-antonio-castro-benítez-90114a35a](https://www.linkedin.com/in/jos%C3%A9-antonio-castro-ben%C3%ADtez-90114a35a)
 
 #
 
